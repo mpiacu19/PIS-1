@@ -12,4 +12,6 @@ namespace ConsoleApp1
         }
     }
 }
+
+
 // kopija printf funkcije,dovodi do duplog ispis
