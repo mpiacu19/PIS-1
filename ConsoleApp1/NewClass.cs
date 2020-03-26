@@ -6,5 +6,8 @@ namespace ConsoleApp1
 {
     class NewClass
     {
+          Console.WriteLine("Nothing");
     }
 }
+
+//printf funkcija,ipisuje nothing
